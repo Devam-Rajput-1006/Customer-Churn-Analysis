@@ -57,13 +57,7 @@ customer-churn-prediction/
 ├── customer_churn_prediction.ipynb
 │
 ├── README.md
-│
-└── images/
-    ├── churn_distribution.png
-    ├── contract_churn.png
-    ├── correlation_heatmap.png
-    ├── confusion_matrix.png
-    └── feature_importance.png
+
 ```
 
 ---
